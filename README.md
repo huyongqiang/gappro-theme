@@ -17,11 +17,11 @@ gulp build:dist
 
 微信转账
 
-![](https://raw.githubusercontent.com/boostbob/gappro-theme/master/img/weixin.jpeg)
+![](https://raw.githubusercontent.com/boostbob/gappro-theme/master/img/weixin.jpg)
 
 支付宝转账
 
-![](https://raw.githubusercontent.com/boostbob/gappro-theme/master/img/alipay.jpeg)
+![](https://raw.githubusercontent.com/boostbob/gappro-theme/master/img/alipay.jpg)
 
 
 
