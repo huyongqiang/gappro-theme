@@ -5,6 +5,7 @@
 # 编译
 
 ```
+npm install
 gulp build:dist
 ```
 
@@ -15,10 +16,12 @@ gulp build:dist
 # 欢迎打赏
 
 微信转账
-![](https://raw.githubusercontent.com/boostbob/gappro-theme/master/img/weixin.png)
+
+![](https://raw.githubusercontent.com/boostbob/gappro-theme/master/img/weixin.jpeg)
 
 支付宝转账
-![](https://raw.githubusercontent.com/boostbob/gappro-theme/master/img/alipay.png)
+
+![](https://raw.githubusercontent.com/boostbob/gappro-theme/master/img/alipay.jpeg)
 
 
 
