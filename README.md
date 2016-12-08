@@ -1,8 +1,25 @@
-gappro-theme
-============
+# 项目说明
 
-A web admin theme based on bootstrap.
+基于 bootstrap 自定义的后台模板，包含诸多常用特性，比如 widget、leadboard table、magic-menu、charts、guide tour、form 等等页面.
 
-![screenshot](http://boostbob.gotoip4.com/themes/gappro/screenshot.png)
+# 编译
 
-[view demo](http://boostbob.gotoip4.com/themes/gappro/)
+```
+gulp build:dist
+```
+
+# 在线预览
+
+[http://gappro-theme.com](http://gappro-theme.com)
+
+# 欢迎打赏
+
+微信转账
+![](https://raw.githubusercontent.com/boostbob/gappro-theme/master/img/weixin.png)
+
+支付宝转账
+![](https://raw.githubusercontent.com/boostbob/gappro-theme/master/img/alipay.png)
+
+
+
+
