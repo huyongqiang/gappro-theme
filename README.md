@@ -1,6 +1,6 @@
 # 项目说明
 
-基于 bootstrap 自定义的后台模板，包含诸多常用特性，比如 widget、leadboard table、magic-menu、charts、guide tour、form 等等页面.
+基于 bootstrap 自定义的后台模板，包含诸多常用特性，比如 widget、leaderboard table、magic menu、charts、guide tour、form 等等页面.
 
 # 编译
 
